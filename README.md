@@ -26,6 +26,6 @@ Bridging the gap between robust software engineering and intelligent AI systems.
 ### 📫 Connect with Me
 - **LinkedIn:** [Et-talhaouy Youssef](https://www.linkedin.com/in/youssef-et-talhaouy-1638893b3/)
 - **Email:** *ettalhaouydevvvy@gmail.com*
-- **Location:** Casablanca, Morocco 🇲🇦
+- **Location:** Marrakesh, Morocco 🇲🇦
 
 
