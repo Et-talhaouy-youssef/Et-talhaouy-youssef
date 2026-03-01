@@ -1,16 +1,31 @@
-## Hi there 👋
+# Youssef Et-talhaouy
+**Aspiring AI Solutions Engineer | CS Student @ EMSI**
 
-<!--
-**Et-talhaouy-youssef/Et-talhaouy-youssef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bridging the gap between robust software engineering and intelligent AI systems. Focused on building production-ready applications, scalable backends, and containerized architectures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **AI & Data Engineering:** Python, Vector Search, LLM Basics
+- **Backend Architecture:** Laravel (PHP), MySQL, C++, REST APIs
+- **Frontend Development:** React.js, Tailwind CSS
+- **DevOps:** Docker, Git/GitHub, Linux
+
+---
+
+### 🚀 Highlighted Projects
+
+* **[NewWork Suite](https://github.com/Et-talhaouy-youssef/newwork-fullstack-suite)** | `React`, `Laravel`, `Docker`
+  Full-stack interactive job board connecting recruiters and candidates. Built with a modular React frontend and a robust Laravel API, entirely orchestrated via Docker Compose.
+
+* **[Vector Engine](https://github.com/Et-talhaouy-youssef/vector-docker)** | `Python`, `Docker`
+  A specialized Python engine for core matrix and vector operations, providing the mathematical foundations for AI models. Containerized and published for scalable deployment.
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [Et-talhaouy Youssef](https://www.linkedin.com/in/youssef-et-talhaouy-1638893b3/)
+- **Email:** *ettalhaouydevvvy@gmail.com*
+- **Location:** Casablanca, Morocco 🇲🇦
+
+
